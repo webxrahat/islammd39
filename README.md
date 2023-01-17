@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD RAHAT ISLAM
 - 👀 I’m interested in JAVASCRIPT
-- 🌱 I’m currently learning NODEJS
+- 🌱 I’m currently learning NODE JS
 - 💞️ I’m looking to collaborate on marketplace
 - 📫 How to reach me https://www.linkedin.com/in/islammd39/
 
